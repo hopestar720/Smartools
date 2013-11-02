@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <item type="id" name="smart_flash_ligth_btn_open"></item>
+    <item type="id" name="smart_flash_ligth_btn_close"></item>
+    
+</resources>
