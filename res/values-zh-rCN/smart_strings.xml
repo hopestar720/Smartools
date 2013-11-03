@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">智能工具箱</string>
+    
+    <string name="smart_flash_ligth_btn_open">打开闪光灯</string>
+    <string name="smart_flash_ligth_btn_close">关闭闪光灯</string>
+    
+    <string name="smart_location_service_btn_open">开始定位</string>
+    <string name="smart_location_service_btn_close">停止定位</string>
+
+</resources>

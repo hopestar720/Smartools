@@ -4,4 +4,8 @@
     <item type="id" name="smart_flash_ligth_btn_open"></item>
     <item type="id" name="smart_flash_ligth_btn_close"></item>
     
+    <item type="id" name="smart_location_service_tv_show"></item>
+    <item type="id" name="smart_location_service_btn_open"></item>
+    <item type="id" name="smart_location_service_btn_close"></item>
+    
 </resources>

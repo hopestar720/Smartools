@@ -2,7 +2,7 @@
 
     <string name="app_name">Smartools</string>
     
-    <string name="smart_flash_ligth_btn_open">打开</string>
-    <string name="smart_flash_ligth_btn_close">关闭</string>
+    <string name="smart_flash_ligth_btn_open">Open</string>
+    <string name="smart_flash_ligth_btn_close">Close</string>
 
 </resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@id/smart_location_service_tv_show"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@id/smart_flash_ligth_btn_open"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/smart_flash_ligth_btn_open" />
+
+    <Button
+        android:id="@id/smart_flash_ligth_btn_close"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/smart_flash_ligth_btn_close" />
+
+</LinearLayout>
