@@ -46,6 +46,9 @@
             </intent-filter>
         </activity>
         
+        <activity android:name=".activity.BaiduLocationActivity">
+        </activity>
+        
         <service android:name=".service.BaiduLocationService">
             <intent-filter>
                 <action android:name="com.xhsoft.android.smartools.service.BAIDU_LOCATION_SERVICE"/>
